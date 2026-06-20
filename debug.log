@@ -1,0 +1,28 @@
+2026-06-20 02:17:11 - === New Request ===
+2026-06-20 02:17:11 - POST Data: Array
+(
+    [name] => Mukul Roy
+    [email] => mro@gmail.com
+    [subject] => ffff
+    [message] => d
+)
+
+2026-06-20 02:17:11 - Received: name=Mukul Roy, email=mro@gmail.com, subject=ffff
+2026-06-20 02:17:11 - Database saved successfully! ID: 2
+2026-06-20 02:17:12 - PHPMailer found at: C:\xampp\htdocs\portfolio\includes/../PHPMailer/src/PHPMailer.php
+2026-06-20 02:17:15 - PHPMailer Exception: SMTP Error: Could not authenticate.
+2026-06-20 02:17:15 - Response: {"success":true,"db_saved":true,"mail_sent":false,"message":"\u2705 Message saved! (Email not sent: SMTP Error: Could not authenticate.)"}
+2026-06-20 02:17:15 - === New Request ===
+2026-06-20 02:17:15 - POST Data: Array
+(
+    [name] => Mukul Roy
+    [email] => mro@gmail.com
+    [subject] => ffff
+    [message] => d
+)
+
+2026-06-20 02:17:15 - Received: name=Mukul Roy, email=mro@gmail.com, subject=ffff
+2026-06-20 02:17:15 - Database saved successfully! ID: 3
+2026-06-20 02:17:15 - PHPMailer found at: C:\xampp\htdocs\portfolio\includes/../PHPMailer/src/PHPMailer.php
+2026-06-20 02:17:18 - PHPMailer Exception: SMTP Error: Could not authenticate.
+2026-06-20 02:17:18 - Response: {"success":true,"db_saved":true,"mail_sent":false,"message":"\u2705 Message saved! (Email not sent: SMTP Error: Could not authenticate.)"}
