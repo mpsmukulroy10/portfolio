@@ -4,7 +4,7 @@ define('DB_USER', 'ezyro_41607235');
 define('DB_PASS', '2b4cae4382');
 define('DB_NAME', 'ezyro_41607235_portfolio');
 
-define('SITE_URL', 'http://localhost/portfolio');
+define('SITE_URL', 'https://mpsmukulroy10.github.io/portfolio/');
 define('SITE_NAME', 'My Portfolio');
 
 // Email Configuration
